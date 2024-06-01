@@ -1,16 +1,13 @@
 ## Hi there 👋
 
-<!--
-**TrapLordJeevan/TrapLordJeevan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello!
+I'm Jeevan, a first-year Computer Science student at UNSW. I have a passion for technology and love to explore the world of coding. Outside of my studies, I'm an enthusiast of cars and dogs.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+🎓 Education: First-year Computer Science student at UNSW
+🚗 Interests: Cars (especially BMW), Dogs, Coding
+💻 Programming Languages (Still learning!):
+C
+JavaScript
+Java
+Python
